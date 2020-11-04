@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gryphonmyers/feed-aggregator.git"
+    "url": "git+https://github.com/2k-web/feed-aggregator.git"
   },
   "author": "Gryphon Myers",
   "license": "MIT",
